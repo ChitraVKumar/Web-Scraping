@@ -1,0 +1,2 @@
+cd DataScraper
+scrapy genspider example example.com
